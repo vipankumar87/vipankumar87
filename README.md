@@ -2,7 +2,7 @@
 
 <!--
 **vipankumar87/vipankumar87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=vipankumar87&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vipankumar87&show_icons=true&locale=en&layout=compact)
+
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vipankumar87)
